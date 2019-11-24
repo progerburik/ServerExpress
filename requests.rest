@@ -1,4 +1,4 @@
-@host = http://localhost:9999
+@host = https://progerburik-server-express.herokuapp.com
 
 ###
 
